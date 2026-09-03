@@ -1,4 +1,4 @@
-# Análise de Vendas — (Projeto Treino)
+# Análise de Vendas
 
 Projeto treino de análise de dados ponta a ponta: extração e tratamento de uma base de vendas, análise exploratória com tabela dinâmica no Excel, e construção de um dashboard interativo no Power BI para responder perguntas de negócio.
 
@@ -21,12 +21,7 @@ Responder, a partir de uma base de vendas com mais de 700 registros, perguntas c
 1. **Extração e organização dos dados** — base bruta de vendas (produto, canal, região, custo, lucro, data).
 2. **Análise exploratória** — tabela dinâmica no Excel para responder as 5 perguntas de negócio antes de partir para a visualização.
 3. **Dashboard** — tradução das respostas em visualizações no Power BI, com KPIs de receita e lucro, distribuição por categoria, canal e região, e evolução anual das vendas.
-
-
-## Arquivos
-
-- `base_de_dados.xlsx` — planilha com a base bruta e a análise descritiva
-- `Dashboard Final.pbix` — arquivo do Power BI
+   
 
 ## Principais insights
 
